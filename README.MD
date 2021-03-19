@@ -7,4 +7,4 @@ in an organized fashion.
 # What's new
 * [EZ2ON Early Access: Updates](news/ez2on/Ez2On-Reddit-Translated.md)
 * [19 Mar 2021: Intro](stream/19-mar-2021-intro.MD)
-* [19 Mar 2021: Playlist}](stream/19-mar-2021-intro.MD)
+* [19 Mar 2021: Playlist](stream/19-mar-2021-intro.MD)
