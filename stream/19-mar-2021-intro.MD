@@ -1,4 +1,4 @@
-﻿## Agenda
+﻿## Agenda: 19 Mar 2021
 ### What is included
 * Sales, marketing and early access issues
 * Laser focused for players who have not played other EZ Franchises but games like Beatmania and DJMAX
