@@ -3,7 +3,7 @@ This is the google/community translated EZ2ON update from the Korea message boar
 
 [Click here for source](https://gall.dcinside.com/mgallery/board/view/?id=ez2on&no=20464&exception_mode=recommend&page=1)
 
-##Please Note
+## Please Note
 > The follow content is translated either by the community or Google Translate.
 > 
 > That being said, there is limited context in the translated content.
