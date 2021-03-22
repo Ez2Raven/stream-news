@@ -8,7 +8,7 @@
 * Unsupported Operating System. (Windows 7 & below, Linux)
 
 ## Early Access issues
-* The cause of the freeze during loading has been identified and is currently going through tesrting.
+* The cause of the freeze during loading has been identified and is currently going through testing.
 * Most of the issues that are happening now are due to the servers being overloaded by players.
 * Preview video quality is poor when selecting a song is by design, in order to support low-spec systems.
 * They will fix infinite loading screen problem very soon but it may not be fixed in this update
@@ -19,7 +19,7 @@
 * Real-time double speed control currently also available for F1, F2, (not saved)
   >  After song is selected, you can increase/decrease speed using F1 and F2 keys
 * Non-stop remix will be deleted due to policy and will be updated in a different format
-* Judgment/Gage becomes difficult after update: The task of moving the decision line + the task of making the decision difficult
+* Judgment/Gauge becomes difficult after update: The task of moving the decision line + the task of making the decision difficult
    > Making the judgement harder because there's many korean players getting all KOOL.
    >
    > In short, lowering the bell curve for scoring.
