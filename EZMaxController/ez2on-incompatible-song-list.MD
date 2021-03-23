@@ -1,6 +1,6 @@
 # Introduction
 
-This is a list of songs ordered by difficult on the 8K mode that are not compatible with the EZMax Controller.
+This is a list of songs ordered by difficult on the 8K mode that are not compatible with the EZMax Controller Turntables
 
 ## Level 5
 * Be mine
