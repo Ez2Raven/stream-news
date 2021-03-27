@@ -32,7 +32,27 @@ This is a list of songs ordered by difficult on the 8K mode that are not compati
 
 ## Level 10
 * 20000000000
-* Minus -1 (need To Re-verify Chart Compatibility)
+* Minus -1 (Chart Is Not Suitable For 2 Turntables. Petal Is Fine)
 * M-Police
 * Black Bird
-* Updated until Level 10 - Black Bird
+* Black Bird
+* Black Industry
+* Minus -1
+* Feel (Chart Is Not Suitable For 2 Turntables. Petal Is Fine)
+* Look out
+* Do you Remember
+* Get it Up
+* Sentimetal no no
+* Anemia
+* In a nutshell (Chart Is Not Suitable For 2 Turntables. Petal Is Fine)
+
+## Level 11
+* Infinity
+* Mystic dream 9903
+* Stay with me (Chart Is Not Suitable For 2 Turntables. Petal Is Fine)
+* Lovely Day
+* South west Cadillac
+* Let it go (Remix)
+* Red Hot
+* Stay (Radio Edit)
+* Freedom (Remaster)
