@@ -1,33 +1,40 @@
-# Music Playlist for 19 Mar 2021
-## EZ2ON Reboot:R
+# Introduction
+Today we're gonna prepare a series of music to listen to while working out in the gym to LOSE FAT!
 
-### Pop or Similar
-* Be my Baby
-* Lie Lie (Ceave Beat Ver.)
-* Lovely Day (Remaster)
-* You Were The One
-* Refresh
-* Back for More (Remaster)
+Let's calculate my maximum heart rate!
+```
+Fat-Burning Heart BPM = 0.7 * (220 - Age)
+```
 
-###Techno & Trance
-* Minus -1 (Space Mix)
-* G.O.A
-* Fire Storm
-* Kamui
+```
+EZ2Raven: 128.8 BPM
+```
+
+To motivate ourselves to stay in the fat burning BPM, 
+we're gonna pick songs that stays around 128 - 132 BPM.
+
+
+# Playlist
+* Memories
 * White Rose
-* Dreamy Flight
-
-### Misc
-* Futurist
-* 20000000000
-* Zeroize
-* Dieoxin
-* Exist
-
-### Easy Listening
-* Complex
-* R.D.M
-* It's My Secret
-* One Two Three Four
-* Anemia
-* Feel
+* Changa 2
+* Paradise
+* Shot Time
+* Back for More (Remaster)
+* The World is One's Oyster
+* Common Story
+* Showdown
+* The 3rd Place
+* Delight
+* J.M.J (DFC Space Gear Re-Formation)
+* Q Factor
+* Explode Engine
+* Sparrow
+* Get It Up
+* M-Police
+* Departure
+* Energy Flower
+* J.M.J
+* Feel (Sonic A.P.E Ver.)
+* Fallen Angel
+* Special K (Altitune Mix)
