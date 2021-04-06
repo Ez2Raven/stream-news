@@ -18,15 +18,15 @@ This is a list of songs ordered by difficult on the 8K mode that are not compati
 
 ## Level 8 
 * Singular Ooint
-* Nihilism - (Need To Re-verify)
+* Nihilism - (To Review)
 * Comet 
 * Funky 5
-* Jam - (Need To Re-verify)
+* Jam - (To Review)
 
 ## Level 9
 * Soul Destructor Chart (Chart Is Not Suitable For 2 Turntables. Petal Is Fine)
 * Kamui
-* Baby Dance Ti Revieq
+* Baby Dance (To Review)
 * Special K
 * Be My Baby
 
@@ -56,3 +56,22 @@ This is a list of songs ordered by difficult on the 8K mode that are not compati
 * Red Hot
 * Stay (Radio Edit)
 * Freedom (Remaster)
+
+## Level 12
+* Minus 1 (hd mix) Charting
+* Ztar warZ (Remix)
+* M-Police
+* Back For More
+* Dirty D
+* Yes Yes (To Review)
+* Do You Remember? (Remix)
+* Quake In Kyoto (Mega Mix)
+* R.D.M (Difficult to execute with Long Turntable Notes)
+* 2.14
+* J.M.J (To Review)
+* Any Way You Want It
+
+## Level 13
+* 20000000000
+* Fire Storm
+* Black Bird ( ican't olay)
