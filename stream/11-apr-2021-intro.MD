@@ -1,4 +1,4 @@
-# Agenda: 6 Apr 2021
+# Agenda: 11 Apr 2021
 ## Introduction
 Today we're gonna go through the following topics:
 1. Ez2On Reboot: R Updates
