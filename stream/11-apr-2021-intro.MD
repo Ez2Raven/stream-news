@@ -1,5 +1,5 @@
 # Agenda: 6 Apr 2021
-## EZ2ON Reboot:R Updates (29 Mar 2021 - 6 Apr 2021)
+## EZ2ON Reboot:R Updates (29 Mar 2021 - 10 Apr 2021)
 1. It has been confirmed that the Window 7 update does not work properly in some environments. (22GB update)
 2. If it does not run, please manually remove'steamapps/common/EZ2ON REBOOT R'from the Steam folder and reinstall.
 3. It has been confirmed that a frame drop occurs when using the full screen in some environments.
