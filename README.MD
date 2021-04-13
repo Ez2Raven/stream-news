@@ -5,5 +5,5 @@ Until I get my website up, I'll be leveraging on README files as the simplest me
 in an organized fashion.
 
 # What's new
-* [11 Apr 2021: intro](stream/11-apr-2021-intro.MD)
+* [13 Apr 2021: intro](stream/13-apr-2021-intro.MD)
 * [List of EZ2ON Reboot: R songs](EZMaxController/ez2on-incompatible-song-list.MD) not compatible with EZMax Controller's Turntables.

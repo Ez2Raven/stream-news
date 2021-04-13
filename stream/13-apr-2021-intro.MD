@@ -13,8 +13,6 @@ Today we're gonna go through the following topics:
 4. When the output device that does not support the sound buffer size saved in the settings is the default output device, the initial loading screen cannot be skipped.
 5. When pressing the Change Song key and the Change Difficulty key at the same time on the Song Selection screen, the disk image appears to be from the previous song.
 6. In case of multiple monitors with different ratios, the '16:9' monitor is turned on with priority regardless of the window setting.
-7. If the speed is adjusted while playing the game over animation, it is initialized to 1.0
-8. Server maintenance will be underway during the week to correct problems. Details will be announced after the schedule is confirmed.
 	* 3840×2160 (Ultra-HD 4K)
 	* 2560×1440 (2K)
 	* 1920×1080 (1080p Full-HD)
@@ -22,6 +20,8 @@ Today we're gonna go through the following topics:
 	* 1366×768
 	* 1280×720 (720p HD)
 	* 1024×576
+7. If the speed is adjusted while playing the game over animation, it is initialized to 1.0
+8. Server maintenance will be underway during the week to correct problems. Details will be announced after the schedule is confirmed.
 
 ## Ez2On Reboot: R Early Access Roadmap
 ### Early Access and Release schedule adjustments
