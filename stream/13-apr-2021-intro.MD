@@ -25,17 +25,17 @@ Today we're gonna go through the following topics:
 
 ## Ez2On Reboot: R Early Access Roadmap
 ### Early Access and Release schedule adjustments
-	> Due to the delay in game stabilization, early access schedules and plans were inevitably adjusted. So will full release schedules.	
+	Due to the delay in game stabilization, early access schedules and plans were inevitably adjusted. So will full release schedules.	
 
 ### Additional Contents during Early Access
-	> Next week, we plan to gradually update various songs starting with the popular arcade series'ルゼ-「picking」, RiraN-「Daydream」.
+	Next week, we plan to gradually update various songs starting with the popular arcade series'ルゼ-「picking」, RiraN-「Daydream」.
 
-	> A total of 20 new song contents will be updated during the Early Access period. Also, a new DLC will be released in September.
+	A total of 20 new song contents will be updated during the Early Access period. Also, a new DLC will be released in September.
 
 ### Usage of 'Generic BGA'
-	> The team cares about the visual aspects of the game, but BGA should not be the limitating factor for releasing new songs. 
+	The team cares about the visual aspects of the game, but BGA should not be the limitating factor for releasing new songs. 
 
-	> After serious considerations, the team concluded that generic/simple BGA will only be used when applicable. 
+	After serious considerations, the team concluded that generic/simple BGA will only be used when applicable. 
 
 ### Remastering BGAs
 There are currently 2 ways to remaster BGA
@@ -44,7 +44,7 @@ There are currently 2 ways to remaster BGA
 	
 	> Currently, about 50 percent (about 100) of entire BGAs were remastered using the first method.
 	
-	> Our long-term goal is to rework the remaining 50% (the screen recording ones) using the slow and expensive way. 
+	> The long-term goal is to rework the remaining 50% (the screen recording ones) using the slow and expensive way. 
 
 	> But some technical constraints make it almost impossible to work with the raw assets. Therefore, about 90 percent of the rest (remaining 95++) will be reworked if everything goes smoothly.
 
